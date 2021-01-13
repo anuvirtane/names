@@ -10,12 +10,14 @@ import {FormsModule} from '@angular/forms';
 
 
 
+
 const appRoutes: Routes = [ {path: '', component: AppComponent}]
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+
 
    ],
   imports: [
